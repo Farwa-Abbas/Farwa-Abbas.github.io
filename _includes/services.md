@@ -3,8 +3,8 @@
 <h4 style="margin:0 10px 0;">Young Learners and Summer Schools</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="[https://oxmedica.com/]"><autocolor>Lecturer for summer bootcamp co-led by Oxmedica and Mawhiba  2022-2023</autocolor></a></li>
-  <li><a href="https://www.imperial.ac.uk/be-inspired/schools-outreach/secondary-schools/stem-in-action/the-human-body/farwa-profile/"><autocolor>Secondary Schools Outreach by STEM in Action</autocolor></a></li>
+  <li><a> <autocolor> href="[https://oxmedica.com/]"><autocolor>Lecturer for summer bootcamp co-led by Oxmedica and Mawhiba  2022-2023</autocolor></a></li>
+  <li><a> <autocolor> href="https://www.imperial.ac.uk/be-inspired/schools-outreach/secondary-schools/stem-in-action/the-human-body/farwa-profile/"</autocolor>Secondary Schools Outreach by STEM in Action</autocolor></a></li>
 
 
 <h4 style="margin:0 10px 0;">Graduate Students</h4>
