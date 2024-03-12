@@ -6,7 +6,6 @@ layout: homepage
 
 I am currently working as a PhD student at the department of Electrical and Electronics Engineering, [Imperial College London](https://www.imperial.ac.uk/), under the supervision of [Dr. Wei Dai](https://www.imperial.ac.uk/people/wei.dai1) in Communications and Signal Processing Research Group. Previously, I have worked as a Research Associate at Center of Artificial Intelligence and Computational Science (CACTuS) Lab at [Information Technology University (ITU)](https://itu.edu.pk/), Lahore, Pakistan. I have graduated with a Masters degree in Electrical Engineering from [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/) in 2019 with a specialisation in Signal Processing and Machine Learning. Prior to that, I have completed my Bachelors in Electrical Engineering from [University of Engineering and Technology (UET)](https://www.uet.edu.pk/home/), Lahore in 2017.
 
-My research interests include applications in statistical signal processing, inverse problems in imaging, deep learning based image reconstruction, and convex optimisation methods for learning low-rank and sparse representations of signals.
 
 ## Research Interests
 
@@ -23,4 +22,4 @@ My research interests include applications in statistical signal processing, inv
 -->
 {% include_relative _includes/publications.md %}
 
-<!---{% include_relative _includes/services.md %}-->
+{% include_relative _includes/services.md %}
