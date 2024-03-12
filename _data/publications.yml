@@ -5,9 +5,10 @@ main:
     conference_short: ICASSP
     conference: International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10095111
-    code: https://github.com/MrGiovanni/ContinualLearning
-    image: ./assets/img/teaser_example_2.png
-    notes: Accepted
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: 
+    image: ./assets/img/teaser_example_1.png
+
 
   - title: "Deep Ptych: Subsampled Fourier Ptychography Using Generative Priors"
     authors: Fahad Shamshad, <strong>Farwa Abbas</strong>, Ali Ahmed
@@ -17,7 +18,7 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Accepted
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_example_2.png
 
   - title: Image Adaptive Generative Priors for Subsampled Fourier Ptychography
     authors: Fahad Shamshad, Asif Hanif, <strong>Farwa Abbas</strong>, Muhammad Awais, Ali Ahmed
@@ -26,7 +27,6 @@ main:
     pdf: https://ieeexplore.ieee.org/document/9022625
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Accepted
     image: ./assets/img/teaser_example.png
 
   - title: "DLGC: Dictionary Learning based Granger Causal Discovery for Cortico-muscular Coupling"
@@ -36,8 +36,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/9022625
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Accepted
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_example_3.png
 
   - title: Stationary and Sparse Denoising Approach for Corticomuscular Causality Estimation
     authors: <strong>Farwa Abbas</strong>, Verity McClelland, Zoran Cvetkovic, Wei Dai
@@ -46,6 +45,5 @@ main:
     pdf: https://ieeexplore.ieee.org/document/9022625
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Accepted
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_example_4.png
     
