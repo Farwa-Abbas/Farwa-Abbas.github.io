@@ -9,7 +9,7 @@
 
 <h4 style="margin:0 10px 0;">Graduate Students</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li> Graduate Teaching Assistant for Topics in Large Dimensional Data Processing 2021-2023</autocolor </li>
   <li> Final Projects Supervisor for Machine Learning course 2019-2020</autocolor</li>
 </ul>
