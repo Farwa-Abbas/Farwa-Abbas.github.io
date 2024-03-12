@@ -21,7 +21,7 @@ main:
     notes: Accepted
     image: ./assets/img/teaser_example.png
 
-   - title: Image Adaptive Generative Priors for Subsampled Fourier Ptychography
+  - title: Image Adaptive Generative Priors for Subsampled Fourier Ptychography
     authors: Fahad Shamshad, Asif Hanif, <strong>Farwa Abbas</strong>, Muhammad Awais, Ali Ahmed
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2019.
@@ -32,7 +32,7 @@ main:
     notes: Accepted
     image: ./assets/img/teaser_example.png
 
-   - title: DLGC: Dictionary Learning based Granger Causal Discovery for Cortico-muscular Coupling
+  - title: DLGC: Dictionary Learning based Granger Causal Discovery for Cortico-muscular Coupling
     authors: <strong>Farwa Abbas</strong>, Verity McClelland, Zoran Cvetkovic, Wei Dai
     conference_short: hj
     conference: <strong>Under Review</strong>
