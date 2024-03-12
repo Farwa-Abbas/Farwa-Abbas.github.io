@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Farwa Abbas
+position: Ph.D. Electrical Engineering (Signal Processing)
+affiliation: Imperial College London
+email: f.abbas20@imperial.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,10 +12,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=iGYy_wkAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
-linkedin: https://www.linkedin.com/
+linkedin: https://www.linkedin.com/in/farwa-abbas-62637a108/
 twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
