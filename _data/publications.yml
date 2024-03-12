@@ -1,22 +1,56 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: SS-ADMM: Stationary and Sparse Granger Causal Discovery For Corticomuscular Coupling
+    authors: <strong>Farwa Abbas</strong>, Verity McClelland, Zoran Cvetkovic, Wei Dai
+    conference_short: ICASSP
+    conference: International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10095111
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:8HM04zac9VwJ:scholar.google.com/&output=citation&scisdr=ClEMTiPiEK-c5EX7M8Y:AFWwaeYAAAAAZe_9K8bhHavSKyx8xAokzZyEge0&scisig=AFWwaeYAAAAAZe_9K9qfd4Zkf_NIxPnGO0AFvOA&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accepted
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  - title: Deep Ptych: Subsampled Fourier Ptychography Using Generative Priors
+    authors: Fahad Shamshad, <strong>Farwa Abbas</strong>, Ali Ahmed
+    conference_short: ICASSP
+    conference: International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2019.
+    pdf: https://ieeexplore.ieee.org/document/8682179
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:X7Uwp7hMDoUJ:scholar.google.com/&output=citation&scisdr=ClEMTiPiEK-c5EX4cE0:AFWwaeYAAAAAZe_-aE2aOAiYF0JLbn2Wsksq0dI&scisig=AFWwaeYAAAAAZe_-aItSRomIjWn4k9xLv4PRYB8&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
     image: ./assets/img/teaser_example.png
+
+   - title: Image Adaptive Generative Priors for Subsampled Fourier Ptychography
+    authors: Fahad Shamshad, Asif Hanif, <strong>Farwa Abbas</strong>, Muhammad Awais, Ali Ahmed
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2019.
+    pdf: https://ieeexplore.ieee.org/document/9022625
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:q7VUPS2AJr8J:scholar.google.com/&output=citation&scisdr=ClEMTiPiEK-c5EX5vEI:AFWwaeYAAAAAZe__pEId-OtHHBrm6MyWTuBCRCo&scisig=AFWwaeYAAAAAZe__pHRco2XHQgJGGpMjILYU_ko&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
+    image: ./assets/img/teaser_example.png
+
+   - title: DLGC: Dictionary Learning based Granger Causal Discovery for Cortico-muscular Coupling
+    authors: <strong>Farwa Abbas</strong>, Verity McClelland, Zoran Cvetkovic, Wei Dai
+    conference_short: 
+    conference: <strong>Under Review</strong>
+    pdf: https://ieeexplore.ieee.org/document/9022625
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:q7VUPS2AJr8J:scholar.google.com/&output=citation&scisdr=ClEMTiPiEK-c5EX5vEI:AFWwaeYAAAAAZe__pEId-OtHHBrm6MyWTuBCRCo&scisig=AFWwaeYAAAAAZe__pHRco2XHQgJGGpMjILYU_ko&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
+    image: ./assets/img/teaser_example.png
+
+  - title: Stationary and Sparse Denoising Approach for Corticomuscular Causality Estimation
+    authors: <strong>Farwa Abbas</strong>, Verity McClelland, Zoran Cvetkovic, Wei Dai
+    conference_short: 
+    conference: <strong>Under Review</strong>
+    pdf: https://ieeexplore.ieee.org/document/9022625
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:q7VUPS2AJr8J:scholar.google.com/&output=citation&scisdr=ClEMTiPiEK-c5EX5vEI:AFWwaeYAAAAAZe__pEId-OtHHBrm6MyWTuBCRCo&scisig=AFWwaeYAAAAAZe__pHRco2XHQgJGGpMjILYU_ko&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
+    image: ./assets/img/teaser_example.png
+    
