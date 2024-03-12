@@ -18,7 +18,6 @@ main:
     pdf: https://ieeexplore.ieee.org/document/8682179
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Accepted
     image: ./assets/img/teaser_example_2.png
 
   - title: Image Adaptive Generative Priors for Subsampled Fourier Ptychography
