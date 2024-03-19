@@ -28,7 +28,7 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/teaser_example_3.png
-
+<!--
   - title: "DLGC: Dictionary Learning based Granger Causal Discovery for Cortico-muscular Coupling"
     authors: <strong>Farwa Abbas</strong>, Verity McClelland, Zoran Cvetkovic, Wei Dai
     conference_short: Under Review
@@ -46,4 +46,4 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/teaser_example_5.png
-    
+    -->
