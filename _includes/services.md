@@ -1,3 +1,4 @@
+<!--
 ## Teaching
 
 <h4 style="margin:0 10px 0;">Young Learners and Summer Schools</h4>
@@ -13,3 +14,4 @@
   <li><autocolor> Graduate Teaching Assistant for Topics in Large Dimensional Data Processing module 2021-2023</autocolor> </li>
   <li><autocolor> Final Projects Supervisor for Machine Learning module 2019-2020</autocolor></li>
 </ul>
+-->
